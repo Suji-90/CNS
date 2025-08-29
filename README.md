@@ -56,3 +56,6 @@ int main()
 ## OUTPUT :-
 <img width="1702" height="1079" alt="Screenshot 2025-08-28 094529" src="https://github.com/user-attachments/assets/6a428577-0211-4d41-86dc-042e15b920d8" />
 
+## RESULT:
+This code wsa executed successfully.
+
